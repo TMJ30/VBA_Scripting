@@ -1,8 +1,7 @@
 ## Analyzing Stock Market Data with VBA
 
 
-websites for:
-
+### Sources Used:
 ---->Functions (Max and Min): https://www.homeandlearn.org/worksheet_functions.html
 
 ---->Handling divisible by 0 error: https://www.youtube.com/watch?v=TDT76TuxKps
