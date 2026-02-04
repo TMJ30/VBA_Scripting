@@ -3,7 +3,7 @@ Create a script that loops through all the stocks for each quarter and outputs t
   * Ticker symbol
   * Quarterly change from the opening price at the beginning of a given quarter to the closing price at the end of the quarter
   * Percente change between opening price and closing price between the beginning and ending of the quarter
-  * Total stock volume of the stock (See image 1)
+  * Total stock volume of the stock >(See image 1)<
   * Add functionality to the scrip to return the stock with the **Greatest percente increase**, **Greatest percent decrease** and **Greatest total volume** (See image 2)
 
 ## Images
