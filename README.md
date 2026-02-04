@@ -7,7 +7,9 @@ Create a script that loops through all the stocks for each quarter and outputs t
   * Add functionality to the scrip to return the stock with the **Greatest percente increase**, **Greatest percent decrease** and **Greatest total volume** (See image 2)
 
 ## Images
+**Total Stock Volume**
 <img width="1649" height="724" alt="image" src="https://github.com/user-attachments/assets/33b15aec-6073-466b-94b8-24aab8ea966f" />
+**Percent Changes**
 <img width="1649" height="724" alt="image" src="https://github.com/user-attachments/assets/c3a83f2c-5a08-42a0-a159-686a11343f24" />
 
 
