@@ -1,5 +1,9 @@
 ## Analyzing Stock Market Data with VBA
-
+Create a script that loops through all the stocks for each quarter and outputs the following information:
+  * Ticker symbol
+  * Quarterly change from the opening price at the beginning of a given quarter to the closing price at the end of the quarter
+  * Percente change between opening price and closing price between the beginning and ending of the quarter
+  * Total stock volume of the stock
 
 ## Sources Used:
 ---->Functions (Max and Min): https://www.homeandlearn.org/worksheet_functions.html
