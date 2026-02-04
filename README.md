@@ -1,4 +1,7 @@
-Referenced websites for:
+##Analyzing Stock Market Data with VBA
+
+
+websites for:
 
 ---->Functions (Max and Min): https://www.homeandlearn.org/worksheet_functions.html
 
