@@ -31,4 +31,4 @@ For Each stock ticker, the script produces:
 The following resources were used to support development and implementations:
 * **Excel/VBA Funtions (Max & Min):** https://www.homeandlearn.org/worksheet_functions.html
 * **Handling Division by Zero in VBA:** https://www.youtube.com/watch?v=TDT76TuxKps
-* **Using > Application.Math in VBA for Data Lookup:** https://www.wallstreetmojo.com/vba-application-match/
+* **Using `Application.Math` in VBA for Data Lookup:** https://www.wallstreetmojo.com/vba-application-match/
