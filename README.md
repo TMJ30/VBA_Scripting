@@ -13,6 +13,9 @@ This script automates the analysis of stock market datasets by iterating through
 * **Efficient Data Handling:** Designed to work with large datasets while maintaining performance and accuracy
 * **Clean Output Formatting:** Generates a structured summary table for easy interpretation and comparison.
 
+## Output
+For Each stock ticker, the script produces:
+
 ## Analyzing Stock Market Data with VBA
 Create a script that loops through all the stocks for each quarter and outputs the following information:
  * Ticker symbol
