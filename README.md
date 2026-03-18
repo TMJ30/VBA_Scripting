@@ -15,14 +15,10 @@ This script automates the analysis of stock market datasets by iterating through
 
 ## Output
 For Each stock ticker, the script produces:
-
-## Analyzing Stock Market Data with VBA
-Create a script that loops through all the stocks for each quarter and outputs the following information:
- * Ticker symbol
- * Quarterly change from the opening price at the beginning of a given quarter to the closing price at the end of the quarter
- * Percente change between opening price and closing price between the beginning and ending of the quarter
- * Total stock volume of the stock (See image 1)
- * Add functionality to the scrip to return the stock with the **Greatest percente increase**, **Greatest percent decrease** and **Greatest total volume** (See image 2)
+* Ticker Symbol
+* Quarterly Change (Closing Price - Opening Price)
+* Percentage Change (**See Image 2**)
+* Total Stock Volume (**See Image 1**)
 
 ## Images
 **Total Stock Volume**
@@ -31,7 +27,8 @@ Create a script that loops through all the stocks for each quarter and outputs t
 <img width="1649" height="724" alt="image" src="https://github.com/user-attachments/assets/c3a83f2c-5a08-42a0-a159-686a11343f24" />
 
 
-## Sources Used:
-* Functions (Max and Min): https://www.homeandlearn.org/worksheet_functions.html
-* Handling divisible by 0 error: https://www.youtube.com/watch?v=TDT76TuxKps
-* Returning the stock with greatest percent increase and decrease, and the greatest total volume: https://www.wallstreetmojo.com/vba-application-match/
+## References:
+The following resources were used to support development and implementations:
+* **Excel/VBA Funtions (Max & Min):** https://www.homeandlearn.org/worksheet_functions.html
+* **Handling Division by Zero in VBA:** https://www.youtube.com/watch?v=TDT76TuxKps
+* **Using >Application.Math< in VBA for Data Lookup:** https://www.wallstreetmojo.com/vba-application-match/
