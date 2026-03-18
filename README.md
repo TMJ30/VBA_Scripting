@@ -1,3 +1,8 @@
+# Stock Market Analysis with VBA
+This project leverages VBA scripting in Excel to analyze large sets of stock market data and generate meaningful quarterly insights.
+
+
+
 ## Analyzing Stock Market Data with VBA
 Create a script that loops through all the stocks for each quarter and outputs the following information:
  * Ticker symbol
