@@ -4,6 +4,15 @@ A VBA-powered Excel solution for analyzing large-scale stock market data and gen
 ## Overview
 This script automates the analysis of stock market datasets by iterating through thousands of rows of data and summarizing key metrics for each ticker on a quarterly basis. It eliminates manual calculations and enables fast, repreatable analysis direct in Excel.
 
+## Key Features
+* **Automated Ticker Processing:** Dynamically loops through all stock tickets and organizes the data by quarter
+* **Quarterly Performance Calculation**:
+  * Computes price change from opening to closing values
+  * Calculates percentage chane for each quarter
+  * Aggregates total trading volume
+* **Efficient Data Handling:** Designed to work with large datasets while maintaining performance and accuracy
+* **Clean Output Formatting:** Generates a structured summary table for easy interpretation and comparison.
+
 ## Analyzing Stock Market Data with VBA
 Create a script that loops through all the stocks for each quarter and outputs the following information:
  * Ticker symbol
